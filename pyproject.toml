@@ -1,0 +1,7 @@
+[project]
+name = "supabase-query-build-immutable-bug"
+version = "0.1.0"
+description = "Simple project demonstrating a bug with Supabase query building"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["dotenv>=0.9.9", "supabase>=2.15.0"]
